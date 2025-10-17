@@ -32,7 +32,6 @@ An on-chain wedding registry dApp built on Solana with <a href="https://www.rust
 
 ## About
 
-This project was made as a submission for the on-chain wedding track by [Superpumped](https://www.youtube.com/channel/UCi-pkXLbm7sqXFhV1NBLUfQ) in the 'Building out Loud' Hackathon by Solana.
 This repo contains code for both, the Solana Program built with Rust and the client built with Svelte, JavaScript, and TypeScript.
 
 ## Notes 
@@ -67,13 +66,6 @@ This repo contains code for both, the Solana Program built with Rust and the cli
 
 - 2 Sollet wallets are needed to use the dApp (Only sollet is supported currently).
 
-## Setup 
-
-- Follow the [Client README](https://github.com/shashwatah/solbond/tree/master/client#readme) to setup the client.
-
-- Follow the [Program README](https://github.com/shashwatah/solbond/tree/master/program#readme) to setup the program.
-
-
 ## Deployment
 
 Solbond's client is currently deployed on Vercel, and the program is deployed on devnet.
@@ -92,4 +84,4 @@ Click [here](https://solbond.vercel.app) to visit.
 
 ## License
 
-[MIT License](https://github.com/shashwatah/solbond/blob/main/LICENSE) | Copyright (c) 2024 Kumar Shashwat
+[MIT License](https://github.com/Snowstrom5/solbond/blob/main/LICENSE) | Copyright (c) 2024 SnowStrom
